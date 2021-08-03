@@ -13,6 +13,7 @@
   <img align="center" alt="Glaysonmelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Glaysonmelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Glaysonmelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Glaysonmelo-dotnetcore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Glaysonmelo-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Glaysonmelo-dot-net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Glaysonmelo-firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
